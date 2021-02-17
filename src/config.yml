@@ -1,0 +1,44 @@
+# Chyby
+no-permission: "&cNa toto nemas prava"
+not-a-number: "&cTo neni cislo"
+
+#--- Chat ---
+
+# Mute a unmute chatu, mozne playceholdery: {player}
+chat-mute: "Chat byl &cvypnut &fhracem &3{player}"
+chat-unmute: "Chat byl &azapnut &fhracem &3{player}"
+
+# Kdyz hrac zkusi neco nmapsat ale chat je vypnuty
+chat-trytosend: "Momentalne je chat &cvypnuty"
+
+# Pomoc prikazu /chat
+chat-help:
+  - "Toto je"
+  - "Pomoc pro chat"
+
+# Zakazane prikazy
+chat-blocked-commands:
+  - "/pl"
+  - "/msg"
+  - "/nejaky-dalsi-prikaz"
+#--- Event ---
+
+# Odpocet do evenentu, placeholdery: {s}
+event-countdown: "Zacatek eventu za &3{s}"
+event-countdown-end: "TED!"
+
+#Napovda k /event
+event-help:
+  - "Toto je"
+  - "Pomoc pro eventy"
+
+#Konfigurace
+help:
+  - "Toto"
+  - "Je"
+  - "Napoveda"
+  - "K"
+  - "celelemu"
+  - "pluginu"
+
+config-reload: "Kongiguracni souvory pluginu byly uspesne nacteny znovu."

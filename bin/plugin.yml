@@ -1,0 +1,13 @@
+name: EventPlugin
+version: 1.0
+author: TenViki
+main: dev.tenviki.eventplugin.Main
+description: Plugin se zakladnimi funkcemi serveru
+
+commands:
+  chat:
+    description: Slouzi pro kontrolu chatu
+  event:
+    description: Slouzi ke sprave eventu
+  ep:
+    description: Admin prikazy
